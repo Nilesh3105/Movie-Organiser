@@ -15,3 +15,5 @@ Just run it in your terminal and it provide you options to add movies to the dat
 
 You can also provide the script with Google Search Key and Custom Search ID(at the start of source code) to process movie name with help from google if the script cannot find it normally. You can obtain it from [here](https://developers.google.com/custom-search/json-api/v1/overview#related_documents)
 
+<br>
+<sub>Created By Nilesh Hirani, Manish Sharma and Piyush Sharma</sub>
